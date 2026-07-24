@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+# Outputs, not inputs: the code regenerates all of these.
+results/
+figures/
+
+# The manuscript is never published here. This repository is the public
+# reproducibility artifact for work that is still under review.
+manuscript/
+*.docx
+*.pdf
